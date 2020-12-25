@@ -1,0 +1,23 @@
+{
+  "name": "convert-evernote-to-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelmottdigital/convert-evernote-to-text.git"
+  },
+  "author": "Mott Digital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelmottdigital/convert-evernote-to-text/issues"
+  },
+  "homepage": "https://github.com/michaelmottdigital/convert-evernote-to-text#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "xml2js": "^0.4.23"
+  }
+}
